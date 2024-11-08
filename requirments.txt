@@ -1,0 +1,7 @@
+streamlit>=1.31.0
+chromadb>=0.4.14
+PyPDF2>=3.0.0
+python-docx2txt>=0.8
+openai>=1.12.0
+python-dateutil>=2.8.2
+typing>=3.7.4.3
