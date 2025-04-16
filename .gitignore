@@ -1,2 +1,3 @@
 .streamlit
 venv
+chroma_db
