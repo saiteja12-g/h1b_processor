@@ -1,4 +1,4 @@
-# H1B Pulse: Visa Eligibility Screening System for Recruiters
+# ClearVisa: H1B Eligibility Screening for Recruiters
 
 A comprehensive Streamlit application that helps recruiters efficiently screen candidates based on H1B visa eligibility factors. The system analyzes the match between resumes and job descriptions, evaluates academic qualifications, and provides detailed visa timeline assessments to identify suitable candidates.
 
